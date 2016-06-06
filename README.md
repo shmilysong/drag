@@ -1,0 +1,1 @@
+This is a preview of a simple drag and drop  
